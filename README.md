@@ -3,5 +3,5 @@
 pensando no layout da pagina. Um carinho muito grande por ele. As cores foram pensadas de forma que 
 o usuário se sentisse acolhido por seres tons quentes e frios.* 
 
-# Imagens
+# IMAGENS
 <img src="./ASSETS/PaginaInicial.png">
