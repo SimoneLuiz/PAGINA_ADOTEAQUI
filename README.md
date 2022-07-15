@@ -1,9 +1,7 @@
 
 <h1 align="center">:file_cabinet: PAGINA ADOTE AQUI - Projeto de Final de Módulo 1 </h1>
 
-*Pagina utilizando HTML. CSS, A página tem a ideia principal a adoção de animais. Foi o meu primeiro projeto
-pensando no layout da pagina. Um carinho muito grande por ele. As cores foram pensadas de forma que 
-o usuário se sentisse acolhido por ser tons quentes e frios. Induzindo o sentimento de adoção* 
+𝒫𝑎𝑔𝑖𝑛𝑎 𝑢𝑡𝑖𝑙𝑖𝑧𝑎𝑛𝑑𝑜 𝐻𝒯𝑀𝐿. 𝒞𝒮𝒮, 𝒜 𝑝𝑎𝑔𝑖𝑛𝑎 𝑡𝑒𝑚 𝑎 𝑖𝑑𝑒𝑖𝑎 𝑝𝑟𝑖𝑛𝑐𝑖𝑝𝑎𝑙 𝑎 𝑎𝑑𝑜ç𝑎𝑜 𝑑𝑒 𝑎𝑛𝑖𝑚𝑎𝑖𝑠. 𝐹𝑜𝑖 𝑜 𝑚𝑒𝑢 𝑝𝑟𝑖𝑚𝑒𝑖𝑟𝑜 𝑝𝑟𝑜𝑗𝑒𝑡𝑜 𝑝𝑒𝑛𝑠𝑎𝑛𝑑𝑜 𝑛𝑜 𝑙𝑎𝑦𝑜𝑢𝑡 𝑑𝑎 𝑝𝑎𝑔𝑖𝑛𝑎. 𝒰𝑚 𝑐𝑎𝑟𝑖𝑛ℎ𝑜 𝑚𝑢𝑖𝑡𝑜 𝑔𝑟𝑎𝑛𝑑𝑒 𝑝𝑜𝑟 𝑒𝑙𝑒. 𝒜𝑠 𝑐𝑜𝑟𝑒𝑠 𝑓𝑜𝑟𝑎𝑚 𝑝𝑒𝑛𝑠𝑎𝑑𝑎𝑠 𝑑𝑒 𝑓𝑜𝑟𝑚𝑎 𝑞𝑢𝑒 𝑜 𝑢𝑠𝑢𝑎𝑟𝑖𝑜 𝑠𝑒 𝑠𝑒𝑛𝑡𝑖𝑠𝑠𝑒 𝑎𝑐𝑜𝑙ℎ𝑖𝑑𝑜 𝑝𝑜𝑟 𝑠𝑒𝑟 𝑡𝑜𝑛𝑠 𝑞𝑢𝑒𝑛𝑡𝑒𝑠 𝑒 𝑓𝑟𝑖𝑜𝑠. 𝐼𝑛𝑑𝑢𝑧𝑖𝑛𝑑𝑜 𝑜 𝑠𝑒𝑛𝑡𝑖𝑚𝑒𝑛𝑡𝑜 𝑑𝑒 𝑎𝑑𝑜ç𝑎𝑜
 
 # *PAGINA INICIAL*
 <img src="./ASSETS/PaginaInicial.png">
